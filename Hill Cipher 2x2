@@ -127,3 +127,4 @@ public class Main {
         scanner.close();
     }
 }
+//give plain text as HELLO and use 2 3 3 5 matrix
